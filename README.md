@@ -40,7 +40,3 @@ Most advice for Amazon influencers comes from other influencers. This list adds 
 ## Contributing
 
 Know a useful resource for Amazon influencers? Open an issue or a pull request.
-
-## License
-
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
